@@ -1,0 +1,19 @@
+.notready{
+	text-align: center;
+}
+.background{
+	background-image: url(../../images/bgtexture1.jpg);
+	background-repeat: repeat;
+}
+.container{
+	max-width: 800px;
+}
+.footer{
+	text-align: center;
+}
+.header{
+	margin-bottom: 30px;
+}
+li.active>a.header{
+	background-color: FF6600;
+}
